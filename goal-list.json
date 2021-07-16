@@ -1,0 +1,15 @@
+{
+  "scc_goals": [
+    {
+      "scc_goal_id": "3000111"
+    }
+  ],
+  "scc_goal_parameters": {
+    "no_of_managers_for_cloudant_db": 0
+  },
+  "rego_rules": [
+    {
+      "rule_name": "vpc_sec_group_attached"
+    }
+  ]
+}
